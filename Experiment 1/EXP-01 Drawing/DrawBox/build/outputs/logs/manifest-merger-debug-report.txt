@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml:2:1-4:12
+	package
+		INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+		ADDED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml:2:1-4:12
+		INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml:2:1-4:12
+uses-sdk
+INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+		ADDED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+		INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+		ADDED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+		INJECTED from E:\SEM 6\MC\Mobile-Computing-Experiments\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
