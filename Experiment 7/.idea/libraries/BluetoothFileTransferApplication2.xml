@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BluetoothFileTransferApplication2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/03 bluetooth/com/santossingh/bluetoothfiletransfer/BluetoothFileTransferApplication.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
